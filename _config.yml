@@ -22,6 +22,7 @@ navbar-links:
   Publications: "pubs"
   CV: "CV"
   More:
+    - Queen Quest: "https://queenquest.org"
     - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
   
@@ -42,7 +43,7 @@ navbar-col: "gold"
 # Change all these values or delete the ones you don't want.
 author:
   name: John M. Mola
-  email: "jmmola@ucdavis.edu"
+  email: "jmola@usgs.gov"
   github: John-Mola    # eg. daattali
   twitter: _JohnMola
 
