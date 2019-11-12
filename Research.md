@@ -6,6 +6,10 @@ css: "/css/index.css"
 
 ---
 
+**Update** 2019-11-11: It has been a good while since I have updated this page, but my site is also getting a bit more traffic. I would suggest if you're interested, check out my [publications](/pubs), [Queen Quest](https://www.queenquest.org/), or [twitter](https://twitter.com/_JohnMola) for more current stuff. I will update this...eventually. 
+
+***
+
 I am broadly interested in pollinator and pollination ecology, conservation genetics, movement ecology, and fire ecology. In my research, I attempt to combine elements of all of these areas. 
 
 

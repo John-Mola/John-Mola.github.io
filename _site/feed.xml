@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Bumble bee queen quest!</title>
+        <description>
+          
+          Have you ever wondered where bumble bees go overwinter? Well, so have we! Introducing, #QueenQuest! QueenQuest is a community science effort that I am spearheading along with folks from Xerces Society, University of Vermont, University of Nebraska, and more. We’re getting researchers and community members out to look for overwintering...
+        </description>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019-11-11-queen-quest/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-11-11-queen-quest/</guid>
+      </item>
+    
+      <item>
         <title>Books for new (ecology) grad students</title>
         <description>
           

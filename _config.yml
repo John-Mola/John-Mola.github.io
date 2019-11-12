@@ -18,6 +18,7 @@ description: Bee biology, pollination ecology, conservation biology
 navbar-links:
   Home: ""
   About: "Bio"
+  #Blog: "blog"
   Research: "Research"
   Publications: "pubs"
   CV: "CV"

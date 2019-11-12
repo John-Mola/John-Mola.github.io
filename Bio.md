@@ -1,15 +1,31 @@
 ---
 layout: page
 title: ""
-subtitle: "I'm John and I like to learn about bees and plants."
 metatitle: "Bio - John M. Mola"
 css: "/css/index.css"
 ---
 
+# Hello! - I'm John and I like to learn about bees and plants.
+
+***
 
 <img align="left" height="220" src="../img/me_PFTF.png" style="margin: 10px 10px; border:2px solid black">
 
-I am a USGS Mendenhall Postdoctoral Fellow advised by Dr. Ian Pearse in Fort Collins (although I will be working remotely until January 2020 in Davis still!). My research focuses on a variety of questions within pollinator ecology and conservation, usually with an emphasis on bumble bees, fire ecology, and the use of conservation genetics methods. I recently completed my PhD in Ecology with [Dr. Neal Williams](http://williamslab.ucdavis.edu) at University of California Davis. 
+<div style="text-align:center">
+  <p style="font-family: calibri; font-size:22pt">
+John M. Mola, PhD<br>
+Research Ecologist<br>
+Mendenhall Fellow<br>
+U.S. Geological Survey<br>
+Fort Collins Science Center<br>
+  jmola [at] usgs.gov
+  
+  </p>
+</div>
+
+I am a USGS Mendenhall Postdoctoral Fellow advised by Dr. Ian Pearse in Fort Collins, Colorado (although I will be working remotely until January 2020 in Davis, California still!). 
+
+My research focuses on a variety of questions within pollinator ecology and conservation, usually with an emphasis on bumble bees, fire ecology, and the use of conservation genetics methods. I recently completed my PhD in Ecology with [Dr. Neal Williams](http://williamslab.ucdavis.edu) at University of California Davis. 
 
 This website functions as my personal/professional website for hosting summaries of my research, a list of publications, and whatever little bits I feel like blogging about. You can find more information on my research at my [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page. I will soon add a link to my USGS research profile when that is available.  
 
