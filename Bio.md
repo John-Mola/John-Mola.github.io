@@ -36,5 +36,3 @@ Please get in touch with me if you want to talk bees, genetics, fire, or if you 
 <a id="anchor"></a> <a id="dog"></a>
 ![](../img/small_beetag.png)            ![](../img/DSCN1695.png)
 *First worker of 2015 marked with opalith tag & my favorite field assistant.* 
-
-
