@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bumble bee queen quest!
-image: /img/q2_onthemove.jpg
+image: /img/Q2_onthemove.jpg
 tags: [bumble bees, community science, overwintering, hibernation, conservation]
 ---
 
