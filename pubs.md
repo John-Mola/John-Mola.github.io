@@ -9,7 +9,7 @@ css: "/css/index.css"
 
 My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page may be more up to date. 
 
-N.M. Williams, **J.M. Mola**, Stuligross, C., Harrison, T., Page, M., Brennan, R., Rosenberger, N., & Rundlöf, M. Fantastic bees and where to find them: locating the cryptic overwintering queens of a western bumble bee. *In Press* at Ecosphere
+N.M. Williams, **J.M. Mola**, Stuligross, C., Harrison, T., Page, M., Brennan, R., Rosenberger, N., & Rundlöf, M. Fantastic bees and where to find them: locating the cryptic overwintering queens of a western bumble bee. Ecosphere [OPEN ACCESS](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.2949)
 
 **Mola, J. M.** and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie [DOI](https://doi.org/10.1007/s13592-019-00662-3), [PDF](/pubs/Mola_Williams_Apidologie_2019.pdf)
 
@@ -17,7 +17,7 @@ LoPresti, E.F., J. Goidell, **J.M. Mola**, M.L. Page, C.D. Specht, C. Stuligross
 
 LoPresti, E. F., J. I. V. Wyk, **J. M. Mola**, K. Toll, T. J. Miller, and N. M. Williams. 2018. Effects of wildfire on floral display size and pollinator community reduce outcrossing rate in a plant with a mixed mating system. American Journal of Botany 105:1154–1164. [PDF](/pubs/LoPresti_AJB_2018.pdf)
 
-**Mola, J. M.**, and N. M. Williams. 2018. Fire-induced change in floral abundance, density, and phenology benefits bumble bee foragers. Ecosphere 9. [PDF](/pubs/Mola_Williams_Ecosphere_2018.pdf)
+**Mola, J. M.**, and N. M. Williams. 2018. Fire-induced change in floral abundance, density, and phenology benefits bumble bee foragers. Ecosphere 9. [OPEN ACCESS](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2056)
 
 **Mola, J. M.**, J. M. Varner, E. S. Jules, and T. Spector. 2014. Altered Community Flammability in Florida’s Apalachicola Ravines and Implications for the Persistence of the Endangered Conifer Torreya taxifolia. PLoS ONE 9:e103933. [PDF](/pubs/Mola_PLOS_2014.pdf)
 
