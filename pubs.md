@@ -9,6 +9,8 @@ css: "/css/index.css"
 
 My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page may be more up to date. 
 
+N.M. Williams, **J.M. Mola**, Stuligross, C., Harrison, T., Page, M., Brennan, R., Rosenberger, N., & Rundlöf, M. Fantastic bees and where to find them: locating the cryptic overwintering queens of a western bumble bee. *In Press* at Ecosphere
+
 **Mola, J. M.** and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie [DOI](https://doi.org/10.1007/s13592-019-00662-3), [PDF](/pubs/Mola_Williams_Apidologie_2019.pdf)
 
 LoPresti, E.F., J. Goidell, **J.M. Mola**, M.L. Page, C.D. Specht, C. Stuligross, M.G. Weber, N.M. Williams, and R. Karban. 2019. A lever action hypothesis for pendulous hummingbird flowers: experimental evidence from a columbine, Annals of Botany.  [DOI](https://doi.org/10.1093/aob/mcz134)
