@@ -7,8 +7,6 @@ tags: [Publications, Movement Ecology]
 
 **Mola J.M.**, M.R. Miller, S. O’Rourke & N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, [Early View Online](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12868)
 
-[Link to the article on Apidologie](https://doi.org/10.1007/s13592-019-00662-3) 
-
 <img src="../img/bb_forest_graphic.png">
 
 [Text below copied from this Tweet Thread](https://twitter.com/_JohnMola/status/1245011498587455489?s=20)
