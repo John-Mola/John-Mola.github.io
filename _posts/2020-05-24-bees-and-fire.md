@@ -7,7 +7,7 @@ tags: [Publications, bumble bees, fire]
 
 Our new paper looking at changes in bumble bee colony abundance, body size, and foraging and dispersal distance in out in **Journal of Animal Ecology**! Below, I provide some meandering background on the study, discuss a few key findings, and offer some musings on where I think research on bees and disturbance needs to go next. 
 
-**Mola J.M.**, M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Wildfire reveals transient change to individual traits and population responses of a native bumble bee *Bombus vosnesenskii*, [Early View Online](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13244) [PDF](../pubs/jae_2020_fire.pdf)
+**Mola J.M.**, M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Wildfire reveals transient change to individual traits and population responses of a native bumble bee *Bombus vosnesenskii*. Journal of Animal Ecology, [Early View Online](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13244) [PDF](../pubs/jae_2020_fire.pdf)
 
 <img src="../img/posts/bb_fire_graphical_abstract.png">
 *Graphical abstract: Bombus vosnesenskii queen on Trifolium fucatum with some key figures showing higher colony abundance and increased body sizes*

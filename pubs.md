@@ -11,6 +11,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en
 
 #### 2020 
 
+**Mola J.M.**, M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Wildfire reveals transient change to individual traits and population responses of a native bumble bee *Bombus vosnesenskii*. Journal of Animal Ecology, [Early View Online](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13244) [PDF](/pubs/jae_2020_fire.pdf)
+
 **Mola J.M.**, M.R. Miller, S. O’Rourke & N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, [Early View Online](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12868)
 
 #### 2019
