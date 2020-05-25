@@ -7,10 +7,21 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Our new paper on bumble bees and fire: where do we go next?</title>
+        <description>
+          
+          Our new paper looking at changes in bumble bee colony abundance, body size, and foraging and dispersal distance in out in Journal of Animal Ecology! Below, I provide some meandering background on the study, discuss a few key findings, and offer some musings on where I think research on bees...
+        </description>
+        <pubDate>Sun, 24 May 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020-05-24-bees-and-fire/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-24-bees-and-fire/</guid>
+      </item>
+    
+      <item>
         <title>New paper out in Ecological Entomology!</title>
         <description>
           
-          Mola J.M., M.R. Miller, S. O’Rourke &amp;amp; N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, Early View Online Text below copied from this Tweet Thread Using genetic mark-recapture we find that bumble bee foraging is not restricted by forest “barriers”....
+          Mola J.M., M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, Early View Online Text below copied from this Tweet Thread Using genetic mark-recapture we find that bumble bee foraging is not restricted by forest “barriers”....
         </description>
         <pubDate>Sun, 12 Apr 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2020-04-12-forest-bb-movement/</link>
