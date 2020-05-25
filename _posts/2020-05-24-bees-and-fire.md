@@ -51,7 +51,7 @@ I do think this work adds to a growing body of recent work showing how fire posi
 I think targetted studies on how to manage bumble bee populations with fire are certainly warranted...and there's a bunch of stuff I didn't mention in this blog post. But perhaps what I find most interesting now are the questions beyond the fire->plants->bees pathway. Fire changes all sorts of aspects of environments that might be relevant for bees beyond floral abundance. 
 
 
-How might changes in soil moisture or bare ground following fire affect the nesting opportunities for bees? How might changed surface albedo in burned areas affect the surface temperatures of flowers and the behavior of visitors? How does fire and the more mesic environment following fire affect disease dynamics? How does smoke during a fire event affect foraging and insect navigation?
+How might changes in soil moisture or bare ground following fire affect the nesting opportunities for bees? How might changed surface albedo in burned areas affect the surface temperatures of flowers and the behavior of visitors? How does fire and the more xeric environment following fire affect disease dynamics? How does smoke during a fire event affect foraging and insect navigation?
 
 I think these questions are worth pursuing. Not just because fire is cool - but because they are opportunities to use fire events as a way to reveal something broader about ecological processes. 
 
