@@ -19,7 +19,7 @@ navbar-links:
   Home: ""
   About: "Bio"
   #Blog: "blog"
-  Research: "Research"
+  #Research: "Research"
   Publications: "pubs"
   CV: "CV"
   More:
