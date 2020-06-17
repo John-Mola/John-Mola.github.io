@@ -22,6 +22,7 @@ navbar-links:
   #Research: "Research"
   Publications: "pubs"
   CV: "CV"
+  Resources: "early_career"
   More:
     - Queen Quest: "https://queenquest.org"
     - Aggie Brickyard: "https://aggiebrickyard.github.io"
