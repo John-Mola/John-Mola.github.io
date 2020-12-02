@@ -11,9 +11,11 @@ My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en
 
 #### 2020 
 
-**Mola J.M.**, M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Wildfire reveals transient change to individual traits and population responses of a native bumble bee *Bombus vosnesenskii*. Journal of Animal Ecology, [Early View Online](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13244), [PDF](/pubs/jae_2020_fire.pdf)
+Smith, T.A., J.P. Strange, E.C. Evans, B.M. Sadd, J.C. Steiner, **J.M. Mola** and K. Traylor-Holzer.(Eds.). 2020. Rusty Patched Bumble Bee, _Bombus affinis_, Ex Situ Assessment and Planning Workshop: Final Report. IUCN SSC Conservation Planning Specialist Group, Apple Valley, MN, USA [PDF](/pubs/rpbb_ex_situ_report.pdf)
 
-**Mola J.M.**, M.R. Miller, S. O’Rourke & N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, [Early View Online](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12868), [PDF](/pubs/eco_ent_2020_forests.pdf)
+**Mola J.M.**, M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Wildfire reveals transient change to individual traits and population responses of a native bumble bee *Bombus vosnesenskii*. Journal of Animal Ecology, [LINK](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13244), [PDF](/pubs/jae_2020_fire.pdf)
+
+**Mola J.M.**, M.R. Miller, S. O’Rourke & N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12868), [PDF](/pubs/eco_ent_2020_forests.pdf)
 
 LoPresti, E.F., J. Goidell, **J.M. Mola**, M.L. Page, C.D. Specht, C. Stuligross, M.G. Weber, N.M. Williams, and R. Karban. 2020. A lever action hypothesis for pendulous hummingbird flowers: experimental evidence from a columbine, Annals of Botany 125(2): 59-65.  [DOI](https://doi.org/10.1093/aob/mcz134)
 
@@ -22,6 +24,8 @@ LoPresti, E.F., J. Goidell, **J.M. Mola**, M.L. Page, C.D. Specht, C. Stuligross
 Williams, N.M., **J.M. Mola**, Stuligross, C., Harrison, T., Page, M., Brennan, R., Rosenberger, N., & Rundlöf, M. 2019. Fantastic bees and where to find them: locating the cryptic overwintering queens of a western bumble bee. Ecosphere 9(1):e02056. [Open Access](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.2949)
 
 **Mola, J. M.** and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie 50: 497–514. [DOI](https://doi.org/10.1007/s13592-019-00662-3), [PDF](/pubs/Mola_Williams_Apidologie_2019.pdf)
+
+**Mola, J. M.** 2019. Bumble bee movement ecology and response to wildfire with an emphasis on genetic mark-recapture techniques. Doctoral Dissertation. University of California Davis. [LINK](https://search.proquest.com/openview/cf82d40184c5a56aa094bae49d97e000/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
 #### 2018
