@@ -9,6 +9,10 @@ css: "/css/index.css"
 
 My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page may be more up to date. 
 
+#### 2021
+
+**J.M. Mola**, C. Stuligross, M.L. Page, D. Rutkowski, and N.M. Williams. 2021. Impact of "non-lethal" tarsal clipping on bumble bees (*Bombus vosnesenskii*) may depend on queen stage and worker size. Journal of Insect Conservation. *In Press*
+
 #### 2020 
 
 Smith, T.A., J.P. Strange, E.C. Evans, B.M. Sadd, J.C. Steiner, **J.M. Mola** and K. Traylor-Holzer.(Eds.). 2020. Rusty Patched Bumble Bee, _Bombus affinis_, Ex Situ Assessment and Planning Workshop: Final Report. IUCN SSC Conservation Planning Specialist Group, Apple Valley, MN, USA [PDF](/pubs/rpbb_ex_situ_report.pdf)
