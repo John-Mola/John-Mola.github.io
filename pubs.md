@@ -11,7 +11,9 @@ My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en
 
 #### 2021
 
-**J.M. Mola**, C. Stuligross, M.L. Page, D. Rutkowski, and N.M. Williams. 2021. Impact of "non-lethal" tarsal clipping on bumble bees (*Bombus vosnesenskii*) may depend on queen stage and worker size. Journal of Insect Conservation. *In Press*
+**J.M. Mola**, L.L. Richardson, G. Spyreas, D.N. Zaya, and I.S. Pearse. 2021. Long-term surveys support declines in early-season forest plants used by bumble bees. Journal of Applied Ecology. In Press. [Accepted version available online.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13886) 
+
+**J.M. Mola**, C. Stuligross, M.L. Page, D. Rutkowski, and N.M. Williams. 2021. Impact of "non-lethal" tarsal clipping on bumble bees (*Bombus vosnesenskii*) may depend on queen stage and worker size. Journal of Insect Conservation. 25:195–201. [Open Access](https://link.springer.com/article/10.1007/s10841-021-00297-9)
 
 #### 2020 
 
