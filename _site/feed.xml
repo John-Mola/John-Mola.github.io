@@ -7,12 +7,23 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>New(ish) paper on long-term declines in bumble bee food availability in forests</title>
+        <description>
+          
+          Bumble bees are highly mobile species that sometimes have really long flight seasons that span the blooming period of multiple habitat types. In a new study published in the Journal of Applied Ecology, we used long-term data from Illinois to look at how food plants used by bumble bees have...
+        </description>
+        <pubDate>Mon, 21 Jun 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2021-06-21-long-term-surveys/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-06-21-long-term-surveys/</guid>
+      </item>
+    
+      <item>
         <title>Our new paper on bumble bees and fire: where do we go next?</title>
         <description>
           
           Our new paper looking at changes in bumble bee colony abundance, body size, and foraging and dispersal distance in out in Journal of Animal Ecology! Below, I provide some meandering background on the study, discuss a few key findings, and offer some musings on where I think research on bees...
         </description>
-        <pubDate>Sun, 24 May 2020 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 24 May 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2020-05-24-bees-and-fire/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-05-24-bees-and-fire/</guid>
       </item>
@@ -23,7 +34,7 @@
           
           Mola J.M., M.R. Miller, S. O’Rourke and N.M. Williams. 2020. Forests do not limit bumble bee foraging movements in a montane meadow complex. Ecological Entomology, Early View Online Text below copied from this Tweet Thread Using genetic mark-recapture we find that bumble bee foraging is not restricted by forest “barriers”....
         </description>
-        <pubDate>Sun, 12 Apr 2020 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 12 Apr 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2020-04-12-forest-bb-movement/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-04-12-forest-bb-movement/</guid>
       </item>
@@ -34,7 +45,7 @@
           
           Have you ever wondered where bumble bees go overwinter? Well, so have we! Introducing, #QueenQuest! QueenQuest is a community science effort that I am spearheading along with folks from Xerces Society, University of Vermont, University of Nebraska, and more. We’re getting researchers and community members out to look for overwintering...
         </description>
-        <pubDate>Mon, 11 Nov 2019 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019-11-11-queen-quest/</link>
         <guid isPermaLink="true">http://localhost:4000/2019-11-11-queen-quest/</guid>
       </item>
@@ -45,7 +56,7 @@
           
           Here’s a list of books that I came back to time and again as a graduate student. Tomorrow is my exit seminar and the official end of my PhD at UC Davis! It feels so long ago that I began graduate school and to know it’s ending is a strange...
         </description>
-        <pubDate>Tue, 08 Oct 2019 00:00:00 -0800</pubDate>
+        <pubDate>Tue, 08 Oct 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019-10-08-beginning_grad_school/</link>
         <guid isPermaLink="true">http://localhost:4000/2019-10-08-beginning_grad_school/</guid>
       </item>
@@ -56,7 +67,7 @@
           
           Mola, J.M. and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie. Link to the article on Apidologie Direct link to PDF This manuscript contains more within it than the title alone lets on. Understanding the landscape-scale movements of bumble bees has long-plagued...
         </description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00 -0800</pubDate>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019-06-26-movementreview/</link>
         <guid isPermaLink="true">http://localhost:4000/2019-06-26-movementreview/</guid>
       </item>
@@ -67,7 +78,7 @@
           
           This post was originally written for the Winter 2017 issue of The Aggie Brickyard. Does ecological research follow Betteridge’s Law of Headlines? No. Well, maybe. Probably not. Sometimes. Sort of? For a period in which we might be glued to the news (or actively avoiding it), it may be a...
         </description>
-        <pubDate>Thu, 29 Nov 2018 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 29 Nov 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018-11-29-betteridge/</link>
         <guid isPermaLink="true">http://localhost:4000/2018-11-29-betteridge/</guid>
       </item>
