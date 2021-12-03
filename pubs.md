@@ -11,6 +11,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en
 
 #### 2021
 
+**J.M. Mola**, J. Hemberger, J. Kochanski, L. L. Richardson, and I. S. Pearse. 2021. Importance of forests in bumble bee biology and conservation. BioScience. [Link](https://doi.org/10.1093/biosci/biab121) 
+
 **J.M. Mola**, L. L. Richardson, G. Spyreas, D. N. Zaya, and I. S. Pearse. 2021. Long‐term surveys support declines in early season forest plants used by bumblebees. Journal of Applied Ecology:1365-2664.13886. [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13886) 
 
 **J.M. Mola**, C. Stuligross, M.L. Page, D. Rutkowski, and N.M. Williams. 2021. Impact of "non-lethal" tarsal clipping on bumble bees (*Bombus vosnesenskii*) may depend on queen stage and worker size. Journal of Insect Conservation. 25:195–201. [Open Access](https://link.springer.com/article/10.1007/s10841-021-00297-9)
