@@ -5,7 +5,7 @@ metatitle: "Bio - John M. Mola"
 css: "/css/index.css"
 ---
 
-# Hello! - I'm John and I like to learn about bees and plants.
+# Hello! - I'm John and I like to learn stuff and then teach others about it.
 
 ***
 
@@ -25,7 +25,7 @@ Fort Collins Science Center<br>
 
 I am a USGS Mendenhall Postdoctoral Fellow advised by [Dr. Ian Pearse](https://www.usgs.gov/staff-profiles/ian-pearse?qt-staff_profile_science_products=3#qt-staff_profile_science_products) in Fort Collins, Colorado. 
 
-My research focuses on a variety of questions within pollinator ecology and conservation, often with an emphasis on bumble bees, fire ecology, and the use of conservation genetics methods. I recently completed my PhD in Ecology with [Dr. Neal Williams](http://williamslab.ucdavis.edu) at University of California Davis in 2019. 
+My research focuses on a variety of questions within applied ecology and conservation - often with a focus on pollinators and especially bumble bees. Broadly I am interested in plant-insect interactions, fire ecology, and the use of conservation genetics methods to solve problems. I completed my PhD in Ecology with [Dr. Neal Williams](http://williamslab.ucdavis.edu) at University of California Davis in 2019. 
 
 Please check out my [Resources](/resources) page. If you're an early career researcher, or advise early career scientists, you may be interested in our Slack Workspace or database of early career pollinat* ecologists. Additionally, I am part of a Social Justice in Ecology Reading Group that is open to all interested. Details on the [resources](/resources) page. 
 
@@ -35,4 +35,4 @@ This website functions as my personal/professional website for hosting summaries
 Please get in touch with me if you want to talk about any of the above interests or if you notice any site errors. I am fairly active on twitter if that's your thing: [@_JohnMola](https://twitter.com/_JohnMola).
 
 ![](../img/small_beetag.png)            ![](../img/DSCN1695.png)
-*First worker of 2015 marked with opalith tag & my favorite field assistant.* 
+*First tagged bumble bee of the field season & my favorite field assistant.* 
