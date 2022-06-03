@@ -9,6 +9,16 @@ css: "/css/index.css"
 
 My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page may be more up to date. 
 
+#### 2022
+
+Kendall, L.K., **Mola, J.M.**, Portman, Z.M., Cariveau, D., Smith, H.G., Bartomeus, I. 2022. The potential and realized foraging movements of bees are differentially determined by body size and sociality. Ecology. _Accepted_
+
+Montero-Castaño, A., J. B. U. Koch, T.-T. T. Lindsay, B. Love, **J. M. Mola**, K. Newman, and J. K. Sharkey. 2022. Pursuing best practices for minimizing wild bee captures to support biological research. Conservation Science and Practice. _Early View_ [Link](http://doi.org/10.1111/csp2.12734)
+
+
+Rundlöf, M., C. Stuligross, A. Lindh, R. L. Malfi, K. Burns, **J. M. Mola**, S. Cibotti, and N. M. Williams. 2022. Flower plantings support wild bee reproduction and may also mitigate pesticide exposure effects. Journal of Applied Ecology. _Early View_ [Link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.14223)
+
+
 #### 2021
 
 **J.M. Mola**, J. Hemberger, J. Kochanski, L. L. Richardson, and I. S. Pearse. 2021. Importance of forests in bumble bee biology and conservation. BioScience. [Link](https://doi.org/10.1093/biosci/biab121) 
