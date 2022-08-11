@@ -5,7 +5,12 @@ metatitle: "Bio - John M. Mola"
 css: "/css/index.css"
 ---
 
-# Hello! - I'm John and I like to learn stuff and then teach others about it.
+## Please Note - big ol' change coming soon!
+
+I'll be starting a lab at Colorado State University in Fall 2022; my new email is john.mola [at] colostate.edu 
+
+I will update this page soon(ish)
+
 
 ***
 
@@ -18,8 +23,7 @@ Research Ecologist<br>
 Mendenhall Fellow<br>
 U.S. Geological Survey<br>
 Fort Collins Science Center<br>
-  jmola [at] usgs.gov
-  
+
   </p>
 </div>
 
