@@ -9,8 +9,7 @@ css: "/css/index.css"
 
 I'll be starting a lab at Colorado State University in Fall 2022; my new email is john.mola [at] colostate.edu 
 
-I will update this page soon(ish)
-
+Please visit MolaLab.org for the current lab website and information
 
 ***
 
