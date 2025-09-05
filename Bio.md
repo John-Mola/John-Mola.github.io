@@ -17,7 +17,15 @@ Noted frisbee enthusiast<br>
   </p>
 </div>
 
-Maybe someday I'll update this again...
+
+<div style="text-align:center">
+  <p style="font-family: calibri; font-size:14pt">
+    
+Maybe someday I'll update this site again...
+
+  </p>
+</div>
+
 
 
 <br><br>
