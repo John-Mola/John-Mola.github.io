@@ -5,13 +5,14 @@ metatitle: "Bio - John M. Mola"
 css: "/css/index.css"
 ---
 
-<img align="left" height="220" src="../img/me_PFTF.png" style="margin: 10px 10px; border:2px solid black">
+<img align="left" height="220" src="../img/molathrow.png" style="margin: 10px 10px; border:2px solid black">
 
 <div style="text-align:center">
   <p style="font-family: calibri; font-size:22pt">
 John M. Mola, PhD<br>
 Assistant Professor<br>
 Colorado State University<br>
+Noted frisbee enthusiast<br>
 
   </p>
 </div>
