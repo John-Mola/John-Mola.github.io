@@ -17,6 +17,6 @@ Colorado State University<br>
 </div>
 
 Maybe someday I'll update this again...
-
+<br><br>
 ![](../img/small_beetag.png)            ![](../img/DSCN1695.png)
 *First tagged bumble bee of the field season & my favorite field assistant.* 
