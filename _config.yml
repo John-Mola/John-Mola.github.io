@@ -20,13 +20,13 @@ navbar-links:
   About: "Bio"
   #Blog: "blog"
   #Research: "Research"
-  Publications: "pubs"
-  CV: "CV"
-  Resources: "resources"
-  More:
-    - Queen Quest: "https://queenquest.org"
-    - Aggie Brickyard: "https://aggiebrickyard.github.io"
-    - Williams Lab: "http://williamslab.ucdavis.edu"
+  #Publications: "pubs"
+  #CV: "CV"
+  #Resources: "resources"
+  #More:
+  #  - Queen Quest: "https://queenquest.org"
+  #  - Aggie Brickyard: "https://aggiebrickyard.github.io"
+  #  - Williams Lab: "http://williamslab.ucdavis.edu"
   
 
 avatar: "/img/me_photo_2.png"
@@ -45,15 +45,15 @@ navbar-col: "gold"
 # Change all these values or delete the ones you don't want.
 author:
   name: John M. Mola
-  email: "jmola@usgs.gov"
-  github: John-Mola    # eg. daattali
-  twitter: _JohnMola
+  email: "john.mola@colostate.edu"
+  #github: John-Mola    # eg. daattali
+  #twitter: _JohnMola
 
 
 # Select which links to show in the footer
 footer-links-active:
   email: true
-  twitter: true
+  twitter: false
   github: false
   linkedin: false
   stackoverflow: false
